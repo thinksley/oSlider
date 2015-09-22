@@ -1,0 +1,17 @@
+input,textarea{margin:0;padding:0;border:none; outline:none;}
+textarea{ resize:none; overflow:auto;}
+em{ font-style:normal;}
+ul{margin:0;padding:0; list-style:none;}
+h1,p,h2{margin:0; font-weight:normal;}
+a,input{-webkit-tap-highlight-color:rgba(255,0,0,0);}
+img{ border:none; vertical-align:top;}
+body{margin:0;position:relative; font-family:Arial,"微软雅黑";color:#666; font-size:26px;}
+.swiper{ overflow:hidden; position:relative;}
+.swiperList{ overflow:hidden;}
+.swiperList li{float:left; position: relative;}
+.swiperList img{ width:100%; height:342px;}
+.swiperList a p{ position: absolute; bottom: 20px; left: 10px; color: #fff; z-index: 10}
+.swiperNav{height:102px; position:absolute;left:0;bottom:0;width:100%; /*background:-webkit-linear-gradient(bottom,rgba(0,0,0,0.9) 0,rgba(0,0,0,0.8) 10%,rgba(0,0,0,0));background:linear-gradient(bottom,rgba(0,0,0,0.9) 0,rgba(0,0,0,0.8) 20%,rgba(0,0,0,0));*/}
+.swiperNav nav{height:10px; right:26px; top:56px; position:absolute;}
+.swiperNav nav a{float:left;width:10px;height:10px; border-radius:5px;background:#fff; opacity:0.5;margin-left:15px;}
+.swiperNav nav a.active{ opacity:1;}
