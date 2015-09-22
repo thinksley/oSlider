@@ -24,3 +24,7 @@
       wrapper           ------  最外围容器id名'
       isAutoPlay        ------  true/false  是否自动播放(默认自动播放)
       autoPlayTimeGap   ------  自动播放时间间隔（默认3000毫秒）
+
+<a href="http://thinksley.github.io/oSlider/index.html" target="_blank">戳这预览(请适配手机端)</a>
+
+      
